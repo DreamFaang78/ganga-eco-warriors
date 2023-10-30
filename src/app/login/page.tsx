@@ -51,7 +51,7 @@ export default function LoginPage() {
         <div className="mb-20 text-1xl">
         <Card>
       <CardBody>
-        <p>Version alpha Launching On 21st October🎉🎉</p>
+        <p>Welcome to The Launch Of Chacha Chaudhary🎉🎉</p>
       </CardBody>
     </Card>
     </div>
