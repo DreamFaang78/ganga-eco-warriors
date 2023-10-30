@@ -1,5 +1,5 @@
 
-# 🤖 GPT-3.5 Model Repository 🤖
+# 🤖 THE DIGITAL CHAUDHARY FOR NEXT GENERATION 🤖
 
 Welcome to our AI model repository! In this project, we've harnessed the power of various technologies to create a versatile language model. 
 
