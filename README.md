@@ -41,6 +41,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-If you have questions or need assistance, reach out to us at [contact@email.com].
+If you have questions or need assistance, reach out to us at faangagam@gmail.com.
 
 Thank you for exploring our AI model repository! 🤖🚀
